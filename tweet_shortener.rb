@@ -32,4 +32,4 @@ def bulk_tweet_shortener(tweet)
 end
 
 def elective_tweet_shortner(tweet)
-  tweet.join
+  tweet.split("")
