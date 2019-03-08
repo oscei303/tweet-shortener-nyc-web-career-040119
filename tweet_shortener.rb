@@ -31,4 +31,5 @@ def bulk_tweet_shortener(tweet)
   end
 end
 
-selective_tweet_shortner
+def elective_tweet_shortner(tweet)
+  tweet.join
